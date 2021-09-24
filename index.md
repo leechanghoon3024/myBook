@@ -13,7 +13,7 @@
   
 
 * 포트폴리오
-  * [Live방송플랫폼](./portfolio/livePlatfrom)
+  * [Live방송플랫폼](./portfolio/livePlatfrom.md)
   * [반려견AI진단플랫폼](./portfolio/aiAnimal.md)
   * [희귀동물오픈쇼핑몰](./portfolio/shopping.md)
 
