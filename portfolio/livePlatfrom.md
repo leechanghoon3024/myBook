@@ -5,6 +5,7 @@
   * `ffmpeg`, `webrtc`
   * `react.js`(관리자), `react-native(앱)`, `typescript`, `next.js(웹)`
   * `nest.js`, `mysql`
+  *  `i18n`을 이용한 여러 언어 서비스
 * 설명
   ```
     1. rtmp를 사용한 1:n의 실시간 방송 플랫폼. 
