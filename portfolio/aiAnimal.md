@@ -1,4 +1,5 @@
 > 반려견AI진단플랫폼
+`https://ranimal.net`
 
 * 사용기술
     * server - `nginx`
