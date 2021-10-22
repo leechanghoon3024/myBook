@@ -1,5 +1,5 @@
 > 희귀동물 오픈 쇼핑몰
-
+`https://ranimal.net`
 * 사용기술
     * server - `nginx`
     * `php`(관리자), `react-native`(앱), `typescript`, `next.js`(웹)
