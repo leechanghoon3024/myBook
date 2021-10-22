@@ -1,9 +1,9 @@
 > 반려견AI진단플랫폼
-`https://ranimal.net`
+
 
 * 사용기술
     * server - `nginx`
-    * `react.js(관리자)`, `react-native(앱)`, `typescript`, `next.js(웹)`
+    * `react.js(관리자)`, `react-native(앱)`, `typescript`,
     * `nest.js`, `mysql`
 * 설명
   ```
