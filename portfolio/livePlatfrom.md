@@ -1,5 +1,5 @@
 > Live방송플랫폼
-
+`https://travelbustv.com` with next.js
 * 사용기술
   * server - `nginx`
   * `ffmpeg`, `webrtc`
