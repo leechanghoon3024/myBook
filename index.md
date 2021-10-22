@@ -6,8 +6,12 @@
   * `node.js`
   * `Framework `
     * `react.js`
-    * `nest.js`
     * `next.js`
+    * `nest.js`
+  * state management
+    * `redux`
+    * `mobx`
+    * `redux-saga`
   * `nginx `
   * `firebase`, `mysql`
   
