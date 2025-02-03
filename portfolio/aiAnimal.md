@@ -5,6 +5,8 @@
     * server - `nginx`
     * `react.js(관리자)`, `react-native(앱)`, `typescript`,
     * `nest.js`, `mysql`
+* 기여도
+    * 프론트엔드, 클라이언트가 제공해주는 API연결 
 * 설명
   ```
     1. 반려견의 사진을 찍어 AI를 통한 반려견의 피부병 진단이 가능. 
