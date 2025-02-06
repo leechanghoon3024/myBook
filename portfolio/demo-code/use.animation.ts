@@ -33,8 +33,8 @@ export const useGLTFAnimations = (type: GenderType) => {
 
 /**
  *
- * @param type GenderType - male | female
- * @param group RefObject<THREE.Group>
+ * @param {GenderType} type - male | female
+ * @param {Group} group - <THREE.Group>
  */
 export const useMergedAnimationsLoader = (type: GenderType, group: Group) => {
     const gltfResults = useGLTFAnimations(type);
